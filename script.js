@@ -1,5 +1,5 @@
 const url = 'https://api.openweathermap.org/data/2.5/';
-const key = '27b2efcba8645b17e8a0739a2c7c45ac';
+const key = '';
 
 
 
